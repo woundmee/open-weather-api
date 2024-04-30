@@ -12,7 +12,9 @@ lon = # указать долготу
 ```
 
 ## Выполнение
+```python
 python3 ./openWeather.py
+```
 
 Вывод: 
 
