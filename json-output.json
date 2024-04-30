@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": 88.1893,
+        "lat": 69.3558
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": -12.1,
+        "feels_like": -19.1,
+        "temp_min": -12.1,
+        "temp_max": -12.1,
+        "pressure": 997,
+        "humidity": 90,
+        "sea_level": 997,
+        "grnd_level": 990
+    },
+    "visibility": 495,
+    "wind": {
+        "speed": 7.12,
+        "deg": 339,
+        "gust": 10.21
+    },
+    "snow": {
+        "1h": 0.31
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1714461960,
+    "sys": {
+        "country": "RU",
+        "sunrise": 1714423895,
+        "sunset": 1714490227
+    },
+    "timezone": 25200,
+    "id": 1497337,
+    "name":"Norilsk",
+    "cod": 200
+}
