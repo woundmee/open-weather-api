@@ -1,6 +1,7 @@
 """
 API:            OpenWeather
 Create date:    30.04.2024
+Author:         woundmee (github)
 """
 
 import urllib.request
@@ -8,6 +9,7 @@ import json
 from datetime import datetime
 
 token = '48e29bf30d49eec1010180dfde7244c1'
+
 url = 'https://api.openweathermap.org/data/2.5/weather?'
 lat = 69.35579
 lon = 88.189294
